@@ -1,6 +1,5 @@
 remote_theme: pages-themes/midnight@v0.2.0
 plugins:
 - jekyll-remote-theme
-baseurl: index.htm
 title: Moriarty's Web
 description: A wretched hive of scum and villany
